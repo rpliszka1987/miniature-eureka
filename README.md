@@ -27,8 +27,8 @@ Repo Url - https://github.com/rpliszka1987/miniature-eureka
 
 ## Heroku Url
 
-https://drive.google.com/file/d/1EWsbOSpQBFnZDnE7lON2TV6-uCKZv1fE/view
+https://gentle-garden-71350.herokuapp.com/
 
 ## Screenshot
 
-![Page Screenshot](./Develop/images/notes-app.png)
+![Page Screenshot](./images/notes-app.png)
